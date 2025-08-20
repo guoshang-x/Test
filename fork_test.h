@@ -4,4 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Function declarations
+int main(void);
+
 #endif
