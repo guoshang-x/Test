@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "files.exclude": {
+        "**/*": false,
+    }
+    "files.watcherExclude": {
+        "**/*": false,
+    },
+    "search.include": [
+        "**/*"
+    ]
+}
