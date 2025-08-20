@@ -5,5 +5,7 @@
 #include <stdlib.h>
 
 int test(void *p);
+// Function declarations
+int main(void);
 
 #endif
